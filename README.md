@@ -30,7 +30,7 @@ Fieldscale constructs two 2D scalar fields, the <span style="color:blue">*min fi
 Fieldscale effectively rescales TIR images while preserving the local details and enhancing the global consistency. We note that *FLIR AGC* is only provided by the FLIR thermal camera manufacturer and Fieldscale can be **a general-purpose method** for various TIR cameras.
 
 ## How to use
-Fieldscale is currently implemented in Python (C++ implementation will be available soon). Please refer to the [python](./python/) directory for more details.
+Fieldscale is currently implemented in Python and C++. Please refer to the [python](./python/) [C++](./cpp/) directory for more details.
 
 ## News
 - **2025-01-28:** Fieldscale will be presented at the IEEE International Conference on Robotics and Automation (ICRA) 2025.
